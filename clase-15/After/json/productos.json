@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "nombre": "Notebook",
+        "marca": "HP",
+        "precio": 130000,
+        "stock": 40,
+        "img": "notebook-hp.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Celular",
+        "marca": "Quantum",
+        "precio": 16000,
+        "stock": 25,
+        "img": "celular-quantum.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Sistema de audio",
+        "marca": "Philips",
+        "precio": 60000,
+        "stock": 20,
+        "img": "sistema-audio-philips.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Reloj Inteligente",
+        "marca": "Xiaomi",
+        "precio": 8000,
+        "stock": 15,
+        "img": "reloj-inteligente.png"
+    }
+
+]
